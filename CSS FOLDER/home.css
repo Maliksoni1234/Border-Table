@@ -1,0 +1,46 @@
+#rt{
+background-color: black;
+border: solid black ;
+margin-left: 7%;
+padding: 6% 6% 7% 6%;
+margin-right: 7%;
+}
+#gh{
+    background-color: #00ffff;
+    border: solid aqua;
+    text-align: center;
+    margin: 0px;
+    padding-top:30px;
+  
+}
+#www{
+background-color: rgb(161, 207, 223);
+border: solid lightblue;
+padding-top: 30px;
+text-align: center;
+margin: 0PX;
+margin-left:2%;
+margin-right: 2%;
+
+}
+#rrr{background-color: rgb(66, 126, 64);
+border: solid  rgba(10, 168, 31, 0.661);
+padding-top: 30px;
+
+padding:0;
+text-align: center;
+margin-left:2%;
+margin-right: 2%;
+
+}
+#tt{
+    background-color: white;
+    border: solid white;
+    padding: 30px;
+    /* padding-left: 0px; */
+    text-align: center;
+    margin: 0;
+    margin-left: 20%;
+    margin-right: 20%;  
+    
+}
